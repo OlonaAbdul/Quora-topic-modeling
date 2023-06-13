@@ -12,3 +12,5 @@
 #### 3. Develop a web application or API to allow users to interactively explore the topics and search for relevant questions.
 #### 4. Conduct sentiment analysis on the questions to understand the sentiment associated with different topics.
 #### 5. Incorporate additional data sources or metadata (e.g., user demographics) to enhance the topic modeling analysis.
+## Contributing
+#### Contributions to this project are welcome. If you have any suggestions, bug reports, or would like to contribute new features or improvements, please submit a pull request.
